@@ -1,0 +1,10 @@
+DEXCAM PWA - INSTALACIÓN SIN COMPUTADORA
+
+1. Descomprime este ZIP en tu celular.
+2. Publica TODOS los archivos juntos en un alojamiento web estático que proporcione HTTPS (por ejemplo GitHub Pages, usando su interfaz web).
+3. Abre la URL HTTPS publicada en Chrome para Android.
+4. Menú de tres puntos > Instalar aplicación o Agregar a pantalla principal.
+
+IMPORTANTE: No se instala abriendo index.html desde Archivos; se necesita HTTPS para la instalación PWA y el funcionamiento sin conexión.
+El reconocimiento por IA no funciona fuera del entorno Claude original; la cámara, galería y funciones locales sí están disponibles.
+Los datos se guardan en el almacenamiento del navegador para el origen publicado: usa Exportar respaldo antes de cambiar de dirección o borrar datos.
